@@ -1,4 +1,4 @@
-### Hi there I'm Vinayak 👋
+### Hi there I'm <a href="https://www.vinayakgupta.me/" target="_blank">Vinayak</a> 👋
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
